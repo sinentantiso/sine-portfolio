@@ -17,5 +17,8 @@
     "url": "https://github.com/sinentantiso/sine-portfolio/issues"
   },
   "homepage": "https://github.com/sinentantiso/sine-portfolio#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "framer-motion": "^7.6.12"
+  }
 }
