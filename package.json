@@ -20,5 +20,8 @@
   "description": "",
   "dependencies": {
     "framer-motion": "^7.6.12"
+  },
+  "devDependencies": {
+    "install-scripts": "^1.2.0"
   }
 }
