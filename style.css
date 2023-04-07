@@ -157,15 +157,18 @@ header .navbar ul li a:hover {
     color: #fff;
 }
 
-.home h1 span:hover {
+.home h1 span {
     color: var(--purple);
-    cursor: pointer;
 }
 
 .home p {
     font-size: 1rem;
     color: #eee;
     padding: 1rem 0;
+}
+
+#pur {
+    color: white;
 }
 
 
@@ -186,6 +189,10 @@ header .navbar ul li a:hover {
     html {
         font-size: 55%;
     } 
+
+    home {
+        padding: 1rem 4rem;
+    }
 }
 
 @media (max-width: 991px) {
