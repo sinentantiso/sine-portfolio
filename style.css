@@ -200,11 +200,18 @@ header .navbar ul li a:hover {
     justify-content: center;
 }
 
-.about .row .counter #pur {
-   font-weight: normal;
-   font-size: 3rem;
+.about .row .counter .box {
+   width: 20rem;
+   background: #222;
+   text-align: center;
+   margin: 2rem; padding: 2rem;
+
 }
 
+.about .row .counter #pur {
+    font-weight: normal;
+    font-size: 3rem;
+ }
 
 
 
