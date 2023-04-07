@@ -45,6 +45,20 @@ body {
 
 section {
     min-height: 100vh;
+    padding: 1rem;
+}
+
+.btn {
+    padding: .7rem 3rem;
+    background: #333;
+    color: #eee;
+    margin-top: 1rem;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.btn:hover {
+    color: var(--purple);
 }
 
 header {
@@ -133,10 +147,15 @@ header .navbar ul li a:hover {
 }
 
 .home h1 {
-    font-size: 2.5rem;
+    font-size: 3rem;
     color: #fff;
 }
 
+.home p {
+    font-size: 1rem;
+    color: #eee;
+    padding: 1rem 0;
+}
 
 
 
