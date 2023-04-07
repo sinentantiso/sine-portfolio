@@ -101,3 +101,9 @@ header .navbar ul li a{
 header .navbar ul li a:hover {
     background: var(--purple);
 }
+
+#menu {
+    position: fixed;
+    top: 2rem; right: 2rem;
+    
+}
