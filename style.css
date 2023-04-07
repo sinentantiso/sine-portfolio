@@ -211,8 +211,34 @@ header .navbar ul li a:hover {
 .about .row .counter #pur {
     font-weight: normal;
     font-size: 3rem;
- }
+}
 
+.portfolio .box-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2rem 0;
+} 
+
+.portfolio .box-container .box {
+    height: 20rem;
+    width: 26rem;
+    border-radius: 2rem 2rem;
+    margin: 2rem;
+    overflow: hidden;
+    cursor: pointer;
+} 
+
+.portfolio .box-container .box img {
+   height: 100%;
+   width: 100%;
+   object-fit: cover;
+} 
+
+.portfolio .box-container .box:hover img {
+    transform: scale(1.2);
+}
 
 
 
@@ -268,6 +294,10 @@ header .navbar ul li a:hover {
     }
 
     .about .row .counter .box {
+        width: 100%;
+    }
+
+    .portfolio .box-container .box {
         width: 100%;
     }
 }
