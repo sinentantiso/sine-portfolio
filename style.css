@@ -70,6 +70,14 @@ header .user .name {
 }
 
 header .user .post {
-    font-size: 3.5rem;
-    color: #fff;   
+    font-size: 2rem;
+    color: #eee;   
+}
+
+header .navbar {
+    width: 100%;
+}
+
+header .navbar {
+    width: 100%;
 }
