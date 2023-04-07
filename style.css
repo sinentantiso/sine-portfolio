@@ -40,6 +40,7 @@ html::-webkit-scrollbar-thumb {
 body {
     background: #111;
     overflow-y: hidden;
+    padding-left: 35rem;
 }
 
 header {
@@ -150,8 +151,14 @@ header .navbar ul li a:hover {
     }
 }
 
+@media (max-width: 768px) {
+    html {
+        font-size: 50%;
+    } 
+}
+
 @media (max-width: 400px) {
     header {
-        left: -120%;
+        left: 100vh;
     } 
 }
