@@ -46,7 +46,7 @@ header {
     position: relative;
     top: 0; left: 0;
     z-index: 1000;
-    height: 48rem;
+    height: 100%;
     width: 35rem;
     background: #1a1a1a;
     display: flex;
