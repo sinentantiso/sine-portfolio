@@ -267,7 +267,10 @@ header .navbar ul li a:hover {
     color: #fff;
     text-transform: none;
     font-size: 1.7rem;
-    width: 100%;
+}   
+    
+.contacts .row form .box::placeholder {
+    text-transform: capitalize;
 }
 
 .contacts .row form .message {
@@ -285,6 +288,13 @@ header .navbar ul li a:hover {
 
 .contacts .row .content .infor h3 i {
     padding-right: 1rem;
+}
+
+.top {
+    position: fixed;
+    bottom: 7.5rem;
+    right: 2rem;
+    z-index: 100;
 }
 
 
@@ -342,5 +352,9 @@ header .navbar ul li a:hover {
 
     .portfolio .box-container .box {
         width: 100%;
+    }
+
+    .contacts .row form .box {
+        margin: 3rem 0;
     }
 }
