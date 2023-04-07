@@ -54,11 +54,12 @@ section {
     color: #eee;
     margin-top: 1rem;
     font-size: 2rem;
+    border-radius: 5rem;
     cursor: pointer;
 }
 
 .btn:hover {
-    color: var(--purple);
+    background-color: var(--purple);
 }
 
 header {
