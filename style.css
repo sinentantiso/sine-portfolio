@@ -2,6 +2,7 @@
 
 :root {
     --yellow: #f9ca24;  
+    --purple: rgba(235, 6, 235, 0.726);
 }
 
 * {
@@ -94,4 +95,9 @@ header .navbar ul li a{
     background: #333;
     color: #fff;
     font-size: 2rem;
+    border-radius: 5rem;
+}
+
+header .navbar ul li a:hover {
+    background: var(--purple);
 }
