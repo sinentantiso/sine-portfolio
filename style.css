@@ -81,3 +81,13 @@ header .navbar {
 header .navbar {
     width: 100%;
 }
+
+header .navbar ul{
+    list-style: none;
+    padding: 1rem 3rem;
+}
+
+header .navbar ul li a{
+    display: block;
+        
+}
