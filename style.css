@@ -25,7 +25,14 @@ html {
 }
 
 html::-webkit-scrollbar {
-    width: 1.4rem;
-    
+    width: 1.4rem; 
+}
+
+html::-webkit-scrollbar-track {
+    background: #222;
+}
+
+html::-webkit-scrollbar-thumb {
+    background: var(--yellow);
 }
 
