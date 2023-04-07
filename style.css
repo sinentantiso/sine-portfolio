@@ -36,3 +36,15 @@ html::-webkit-scrollbar-thumb {
     background: var(--yellow);
 }
 
+body {
+    background: #111;
+    overflow-y: hidden;
+}
+
+header {
+    position: relative;
+    top: 0; left: 0;
+    z-index: 1000;
+    
+}
+
