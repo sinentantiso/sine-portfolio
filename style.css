@@ -58,6 +58,11 @@ section {
     cursor: pointer;
 }
 
+.btn i {
+    padding: 0 .5rem;
+    font-size: 1.8rem;
+}
+
 .btn:hover {
     background-color: var(--purple);
 }
@@ -152,6 +157,11 @@ header .navbar ul li a:hover {
     color: #fff;
 }
 
+.home h1 span:hover {
+    color: var(--purple);
+    cursor: pointer;
+}
+
 .home p {
     font-size: 1rem;
     color: #eee;
@@ -189,6 +199,10 @@ header .navbar ul li a:hover {
 
     header .toggle {
         left: 0%;
+    }
+
+    body {
+        padding: 0;
     }
 }
 
