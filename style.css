@@ -262,4 +262,12 @@ header .navbar ul li a:hover {
     header {
         left: 100vh;
     } 
+
+    heading {
+        margin: 0 3rem;
+    }
+
+    .about .row .counter .box {
+        width: 100%;
+    }
 }
