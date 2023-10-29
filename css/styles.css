@@ -28,6 +28,11 @@ body {
     color: var(--text-color);
 }
 
+section {
+    min-height: 100vh;
+    padding: 10rem;
+}
+
 .header {
     position: fixed;
     top: 0;
