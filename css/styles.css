@@ -20,5 +20,10 @@
 
 html {
     font-size: 52.5%;
-    
+    overflow-x: hidden;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
 }
