@@ -64,4 +64,5 @@ body {
     font-size: 3.7rem;
     color: var(--text-color);
     cursor: pointer;
+    display: none;
 }
