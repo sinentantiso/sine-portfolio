@@ -41,3 +41,9 @@ body {
     z-index: 100;
 }
 
+.logo {
+    font-size: 2rem;
+    color: var(--text-color);
+    font-weight: 600;
+    cursor: pointer;
+}
