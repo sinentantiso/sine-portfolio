@@ -78,6 +78,10 @@ section {
     align-items: center;
 }
 
+.home-img img {
+    width: 35vw;
+}
+
 .home-content h3 {
     font-size: 3.2rem;
     font-weight: 700;
@@ -85,5 +89,6 @@ section {
 
 .home-content h1 {
     font-size: 5.6rem;
-    font-weight: 200;
+    font-weight: 700;
+    line-height: 1.3;
 }
