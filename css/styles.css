@@ -47,3 +47,8 @@ body {
     font-weight: 600;
     cursor: pointer;
 }
+
+.navbar a {
+    font-size: 1.7rem;
+    color: var(--text-color);
+}
