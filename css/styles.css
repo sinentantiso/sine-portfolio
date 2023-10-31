@@ -134,5 +134,9 @@ span {
     font-size: 1.6rem;
     color: var(--second-bg-color);
     letter-spacing: .1rem;
-    
+    font-weight: 600;
+}
+
+.btn:hover {
+    box-shadow: none;
 }
