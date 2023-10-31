@@ -124,3 +124,7 @@ span {
     color: var(--second-bg-color);
     box-shadow: 0 0 1rem var(--main-color);
 }
+
+.btn {
+    display: inline-block;
+}
