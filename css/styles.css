@@ -179,4 +179,5 @@ span {
 
 .services-container {
     display: flex;
+    justify-content: center;
 }
