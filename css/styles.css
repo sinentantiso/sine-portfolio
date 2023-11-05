@@ -186,5 +186,6 @@ span {
 }
 
 .services-container .services-box {
+    flex: 1 1 30rem;
     
 }
