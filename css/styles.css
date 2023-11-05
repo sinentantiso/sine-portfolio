@@ -160,5 +160,6 @@ span {
 }
 
 .about-content h2{
-
+    text-align: left;
+    line-height: 1.2rem;
 }
