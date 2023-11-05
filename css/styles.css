@@ -176,3 +176,7 @@ span {
 .services h2 {
     margin-bottom: 5rem;
 }
+
+.services-container {
+    display: flex;
+}
