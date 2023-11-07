@@ -236,3 +236,7 @@ span {
     overflow: hidden;
     display: flex;
 }
+
+.portfolio-box img {
+    width: 100%;
+}
