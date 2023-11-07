@@ -215,6 +215,14 @@ span {
 }
 
 .portfolio {
-    
+    background: var(--second-bg-color);
+}
+
+.portfolio h2 {
+    margin-bottom: 4rem;
+}
+
+.portfolio-container {
+    display: grid;
 }
 
