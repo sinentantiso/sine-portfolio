@@ -234,4 +234,5 @@ span {
     border-radius: 2rem;
     box-shadow: 0 0 1rem var(--bg-color);
     overflow: hidden;
+    display: flex;
 }
