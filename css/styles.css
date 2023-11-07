@@ -194,6 +194,10 @@ span {
     border: .2rem solid var(--bg-color);
 }
 
+.services-container .services-box {
+    
+}
+
 .services-box i {
     font-size: 7rem;
     color: var(--main-color);
@@ -206,6 +210,6 @@ span {
 .services-box p {
     font-size: 1.6rem;
     margin: 1rem 0 3rem;
-    
+
 }
 
