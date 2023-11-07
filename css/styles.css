@@ -194,8 +194,9 @@ span {
     border: .2rem solid var(--bg-color);
 }
 
-.services-container .services-box {
-    
+.services-container .services-box:hover {
+    border-color: var(--main-color);
+    transform: scale(1.06);
 }
 
 .services-box i {
