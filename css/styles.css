@@ -254,7 +254,7 @@ span {
     flex-direction: column;
     text-align: center;
     padding: 0 4rem;
-    transform: translate(75%);
+    transform: translate(100%);
 }
 
 .portfolio-layer h4 {
