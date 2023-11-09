@@ -241,6 +241,10 @@ span {
     width: 100%;
 }
 
+.portfolio-box:hover img {
+    width: 100%;
+}
+
 .portfolio-box .portfolio-layer {
     position: absolute;
     bottom: 0;
