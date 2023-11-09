@@ -263,7 +263,8 @@ span {
 }
 
 .portfolio-box:hover .portfolio-layer {
-   
+    transform: translate(100%);
+
 }
 
 .portfolio-layer h4 {
