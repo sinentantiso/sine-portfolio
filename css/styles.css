@@ -262,6 +262,10 @@ span {
     transform: translate(100%);
 }
 
+.portfolio-box:hover .portfolio-layer {
+   
+}
+
 .portfolio-layer h4 {
     font-size: 3rem;
 }
