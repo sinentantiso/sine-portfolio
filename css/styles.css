@@ -268,6 +268,8 @@ span {
 
 .portfolio-layer a {
     display: inline-flex;
+    justify-content: center;
+    align-items: center;
     font-size: 1.6rem;
     margin: .3rem 0 1rem;
 }
