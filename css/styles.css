@@ -297,3 +297,7 @@ span {
     margin-bottom: 3rem;
 }
 
+.contact .form {
+    max-width: 70rem;
+    
+}
