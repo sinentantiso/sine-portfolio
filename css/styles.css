@@ -314,5 +314,7 @@ span {
 .contact form text-area {
     width: 100%;
     padding: 1.7rem;
-
+    font-size: 1.6rem;
+    color: var(--text-color);
+    background: var(--second-bg-color);
 }
