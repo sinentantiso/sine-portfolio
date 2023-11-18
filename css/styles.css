@@ -299,5 +299,6 @@ span {
 
 .contact .form {
     max-width: 70rem;
+    margin: 1rem auto;
     
 }
