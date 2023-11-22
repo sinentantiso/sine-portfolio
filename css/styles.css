@@ -335,3 +335,6 @@ span {
     cursor: pointer;
 }
 
+.footer {
+    display: flex;
+}
