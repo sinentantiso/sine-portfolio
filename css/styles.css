@@ -327,5 +327,6 @@ span {
 }
 
 .contact form textarea {
-    
+    resize: none;
 }
+
