@@ -320,3 +320,9 @@ span {
     border-radius: .8rem;
     margin: .7rem 0;
 }
+
+
+.contact form .input-box input {
+    width: 49%;
+}
+
