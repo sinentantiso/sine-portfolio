@@ -350,5 +350,6 @@ span {
 
 .footer-iconTop a {
     display: inline-flex;
+    justify-content: center;
     
 }
