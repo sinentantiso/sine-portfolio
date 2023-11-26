@@ -353,5 +353,6 @@ span {
     justify-content: center;
     align-items: center;
     padding: .8rem;
+    background: var(--main-color);
     
 }
