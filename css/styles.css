@@ -342,5 +342,8 @@ span {
     flex-wrap: wrap;
     padding: 2rem 9%;
     background: var(--second-bg-color);
+}
+
+.footer-text p {
     
 }
