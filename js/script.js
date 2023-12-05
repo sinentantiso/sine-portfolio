@@ -15,7 +15,7 @@ window.onscroll = () => {
 
         let id = sec.getAttribute("id");
 
-        if() {
+        if(top >= offset && ) {
 
 
         };
