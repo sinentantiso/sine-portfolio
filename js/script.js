@@ -8,8 +8,9 @@ let sections = document.querySelectorAll('section');
 let navLinks = document.querySelectorAll('header nav a');
 
 window.onscroll = () => {
-
-
+    sections.forEach(sec =>{
+        
+    })
     /*==================== sticky navbar ====================*/
 
     /*==================== remove toggle icon and navbar when click navbar link (scroll) ====================*/
