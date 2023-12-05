@@ -16,7 +16,9 @@ window.onscroll = () => {
         let id = sec.getAttribute("id");
 
         if(top >= offset && top < offset + height) {
-
+            navLinks.forEach(links => {
+                
+            })
 
         };
     })
