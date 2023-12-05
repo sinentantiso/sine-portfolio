@@ -12,6 +12,9 @@ window.onscroll = () => {
         let top = window.scrollY;
         let offset = sec.offsetTop - 150;
         let height = sec.offsetHeight;
+
+        let id = sec.getAttribute("id");
+        
     })
     /*==================== sticky navbar ====================*/
 
